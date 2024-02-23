@@ -10,8 +10,8 @@ function setup() {
 function draw() {
   background(220);
   translate(200, 200);
-  drawCreature(90,-170, color(90,120,220), color(90,120,220), color (255,0,0), .5);
-  
+  drawCreature(-200,-370, color(90,120,220), color(90,120,220), color (255,0,0), .5);
+
     push();
   
   //ears
